@@ -3,11 +3,8 @@
 
 Aquí se recogen las soluciones a los problemas planteados, y un resumen en forma de código de dichos apuntes.
 
-A continuación describimos cada archivo.
+A continuación describimos cada archivo destacable.
 
-- Aprendiendo Cs.csproj: Archivo que identifica todos los ficheros como pertenecientes a un mismo proyecto.
-
-- Aprendiendo Cs.sln: Un misterio.
 
 - Calculadora Simple: Solución ejercicio 1.
 
