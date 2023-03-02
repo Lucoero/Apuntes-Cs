@@ -12,6 +12,8 @@ A continuación describimos cada archivo destacable.
 
 - True Calculadora: Solución ejercicio 3
 
+# Dentro de "Aprendiendo Cs"
+
 - Contraseña.cs: Clase que sirve como ejemplo para el uso de getters y setters.
 
 - Fraccion.cs: Ejemplo de cómo construir una clase. También es la solución del ejercicio 4. 
