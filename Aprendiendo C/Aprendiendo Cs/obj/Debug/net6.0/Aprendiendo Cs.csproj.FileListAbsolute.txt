@@ -1,0 +1,30 @@
+E:\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.exe
+E:\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.deps.json
+E:\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.runtimeconfig.json
+E:\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.dll
+E:\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.pdb
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.csproj.AssemblyReference.cache
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.AssemblyInfoInputs.cache
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.AssemblyInfo.cs
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.csproj.CoreCompileInputs.cache
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.dll
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\refint\Aprendiendo Cs.dll
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.pdb
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.genruntimeconfig.cache
+E:\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\ref\Aprendiendo Cs.dll
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.csproj.AssemblyReference.cache
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.AssemblyInfoInputs.cache
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.AssemblyInfo.cs
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.csproj.CoreCompileInputs.cache
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.dll
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\refint\Aprendiendo Cs.dll
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.pdb
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.exe
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.deps.json
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.runtimeconfig.json
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.dll
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\bin\Debug\net6.0\Aprendiendo Cs.pdb
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\Aprendiendo Cs.genruntimeconfig.cache
+E:\Proyectos C\Aprendiendo C\Aprendiendo Cs\obj\Debug\net6.0\ref\Aprendiendo Cs.dll
