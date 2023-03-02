@@ -10,6 +10,8 @@ A continuación describimos cada archivo destacable.
 
 - Comparador de Números: Solución ejercicio 2. 
 
+- True Calculadora: Solución ejercicio 4
+
 - Contraseña.cs: Clase que sirve como ejemplo para el uso de getters y setters.
 
 - Fraccion.cs: Ejemplo de cómo construir una clase. También es la solución del ejercicio 4. 
