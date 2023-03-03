@@ -1,0 +1,15 @@
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.csproj.AssemblyReference.cache
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.AssemblyInfoInputs.cache
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.AssemblyInfo.cs
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.csproj.CoreCompileInputs.cache
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\bin\Debug\net6.0\Mas sobre Arrays.exe
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\bin\Debug\net6.0\Mas sobre Arrays.deps.json
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\bin\Debug\net6.0\Mas sobre Arrays.runtimeconfig.json
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\bin\Debug\net6.0\Mas sobre Arrays.dll
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\bin\Debug\net6.0\Mas sobre Arrays.pdb
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.dll
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\refint\Mas sobre Arrays.dll
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.pdb
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\Mas sobre Arrays.genruntimeconfig.cache
+E:\Proyectos C\Apuntes-Cs\Mas sobre Arrays\obj\Debug\net6.0\ref\Mas sobre Arrays.dll
