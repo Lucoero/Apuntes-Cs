@@ -1,0 +1,5 @@
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.csproj.AssemblyReference.cache
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.AssemblyInfoInputs.cache
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.AssemblyInfo.cs
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.csproj.CoreCompileInputs.cache
