@@ -3,3 +3,13 @@ E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincr
 E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.AssemblyInfoInputs.cache
 E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.AssemblyInfo.cs
 E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.csproj.CoreCompileInputs.cache
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\bin\Debug\net6.0\Funciones_asincronas.exe
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\bin\Debug\net6.0\Funciones_asincronas.deps.json
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\bin\Debug\net6.0\Funciones_asincronas.runtimeconfig.json
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\bin\Debug\net6.0\Funciones_asincronas.dll
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\bin\Debug\net6.0\Funciones_asincronas.pdb
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.dll
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\refint\Funciones_asincronas.dll
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.pdb
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\Funciones_asincronas.genruntimeconfig.cache
+E:\Proyectos C\Apuntes-Cs\Funciones_asincronas\obj\Debug\net6.0\ref\Funciones_asincronas.dll
